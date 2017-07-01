@@ -1,2 +1,2 @@
 # alarmbot
-This project is based on arduinobot
+This project is based on arduino board.
